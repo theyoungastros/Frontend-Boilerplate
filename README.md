@@ -5,9 +5,9 @@ This is a great starting point if you have a frontend project to build. It uses 
 
 ## To Setup
 ```
-sudo npm install -g bower
-sudo npm install -g gulp
-npm install
-bower install
-gulp
+$ sudo npm install -g bower
+$ sudo npm install -g gulp
+$ npm install
+$ bower install
+$ gulp build
 ```
