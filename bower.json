@@ -1,0 +1,19 @@
+{
+  "name": "frontend-boiler",
+  "version": "0.1.0",
+  "description": "Frontent Boiler Plate - using NPM, Bower, Gulp, Jade, Scss",
+  "authors": [
+    "Tyler Savery (tyler@theyoungastronauts.com)"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4"
+  }
+}
